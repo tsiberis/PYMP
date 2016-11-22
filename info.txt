@@ -1,0 +1,7 @@
+PyMP (Pygame's Music Player)^by Takis Tsiberis^http://takira.freehosting.net/^& ttsiberis@freemail.gr
+For the developer^who wants to know^if his music is^playable with Pygame.
+Plays .wav, .ogg, .mp3,^.xm & .mid files.^Additionally .cda in Windows.
+(C) 2008-2010 Panagiotis Tsiberis.^This program is free software;^you can redistribute it and/or^modify it under the terms of the^GNU General Public License^as published by the Free Software^Foundation; either version 2^of the License, or (at your option)^any later version.
+Many thanks:^Frank McIngvale,^Nicolas Favre-Felix,^Ethan Glasser-Camp,^Fredrik Lundh,^Jim Weirich & Monty Stein.
+Powered by python, pygame,^tkinter, IDLE, gedit & Kate.^^Released at December 2008 ...^Merry Christmas !!!
+This music is^"God Rest Ye Merry Gentlemen"^by Randy Kelley^RandyK1641@aol.com%
